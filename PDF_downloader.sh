@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Author: Aniol0012
 # Date: Feburary 2023
 
